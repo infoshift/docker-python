@@ -1,4 +1,4 @@
-docker-python
-=============
+infoshift/python
+================
 
-Docker automated build for python
+Docker image for python 2.7.
